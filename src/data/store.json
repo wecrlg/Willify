@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Iphone 10",
+    "price": 480
+    ,
+    "image": "https://images.unsplash.com/photo-1604664585494-b3451ede482b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aXBob25lJTIwMTB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "title": "Nike Shoe",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXMlMjBuaWtlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "title": "Iphone 14",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1677563277026-17a254ea02f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aXBob25lJTIwMTR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "title": "Hp Laptop",
+    "price": 1150,
+    "image": "https://images.unsplash.com/photo-1583223667854-e0e05b1ad4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "title": "Mac Book",
+    "price": 2300,
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhwJTIwbGFwdG9wfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "title": "Gown",
+    "price": 420,
+    "image": "https://images.unsplash.com/photo-1622079401116-8317808352d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGdvd258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 7,
+    "title": "Mouse & Keyboard",
+    "price": 250,
+    "image": "https://images.unsplash.com/photo-1652850494316-3d30b01debca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bW91c2UlMjBhbmQlMjBrZXlib2FyZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 8,
+    "title": "Play Station",
+    "price": 300,
+    "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 9,
+    "title": "Wrist Watch",
+    "price": 3000,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d3Jpc3QlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]
+
